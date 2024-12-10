@@ -27,11 +27,14 @@ header h1 {
 
 .tabs {
     margin: 20px 0;
-}
+    }
 
 .tab {
     background-color: #007bff;
+    color: #ffffff;
+    width: 125px;
     border:  1px;
+    border-radius: 5px;
     padding: 10px 20px;
     margin: 0 5px;
     font-size: 1rem;
